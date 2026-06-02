@@ -15,11 +15,12 @@
 <img align="right" height="250" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 * ☁️ Interested in AWS Cloud & DevOps Engineering
-* 💻 Passionate about Software Engineering and Full Stack Development
+* 💻 Passionate about Software Engineering and Cloud AWS
 * 🤖 Building AI, IoT & Automation Projects
 * 🚀 Developing Real-Time Smart Systems
 * 🌱 Currently Learning Kubernetes, Terraform & Cloud Security
-* 🏆 Hackathon & Project Expo Winner
+* 🏆 Hackathon & Project Expo & presentations & non-technical & sports winner
+
 
 ---
 
